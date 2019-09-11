@@ -1,0 +1,40 @@
+html,
+body {
+  height: 100%;
+  margin: 0;
+}
+
+body {
+  background: linear-gradient(
+    120deg,
+    rgba(40, 158, 209, 1) 0%,
+    rgba(80, 41, 120, 1) 100%
+  );
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.animation {
+  width: 90vw;
+  display: inline-block;
+  padding-bottom: 48.39%;
+  position: relative;
+}
+
+.animation-inner {
+  position: absolute;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  right: 0;
+}
+
+.total-image {
+  position: absolute;
+  left: 0;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  background: url(./images/desktop.svg) top left no-repeat;
+}
