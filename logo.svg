@@ -1,0 +1,126 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 155.88 140">
+  <defs>
+    <style>.a{fill:#fff;}.b{fill:#ddd;}.c{fill:#bbb;}</style>
+  </defs>
+
+  <!-- center -->
+  <polygon class="a" points="77.94 90 86.6 85 77.94 80 69.28 85 77.94 90"/>
+  <polygon class="b" points="69.28 95 69.28 85 77.94 90 77.94 100 69.28 95"/>
+  <polygon class="c" points="86.6 95 86.6 85 77.94 90 77.94 100 86.6 95"/>
+
+  <!-- right arm -->
+  <g>
+    <polygon class="a" points="95.26 100 103.92 95 95.26 90 86.6 95 95.26 100"/>
+    <polygon class="b" points="86.6 105 86.6 95 95.26 100 95.26 110 86.6 105"/>
+    <polygon class="c" points="103.92 105 103.92 95 95.26 100 95.26 110 103.92 105"/>
+
+    <polygon class="a" points="112.58 110 121.24 105 112.58 100 103.92 105 112.58 110"/>
+    <polygon class="b" points="103.92 115 103.92 105 112.58 110 112.58 120 103.92 115"/>
+    <polygon class="c" points="121.24 115 121.24 105 112.58 110 112.58 120 121.24 115"/>
+
+    <polygon class="a" points="129.9 120 138.56 115 129.9 110 121.24 115 129.9 120"/>
+    <polygon class="b" points="121.24 125 121.24 115 129.9 120 129.9 130 121.24 125"/>
+    <polygon class="c" points="138.56 125 138.56 115 129.9 120 129.9 130 138.56 125"/>
+
+    <polygon class="a" points="147.22 130 155.88 125 147.22 120 138.56 125 147.22 130"/>
+    <polygon class="b" points="138.56 135 138.56 125 147.22 130 147.22 140 138.56 135"/>
+    <polygon class="c" points="155.88 135 155.88 125 147.22 130 147.22 140 155.88 135"/>
+
+    <animate attributeName="opacity" values="1;1;1;1;0.1;0.1;1" keyTimes="0;.1;.33;.43;.66;.76;1" dur="20s" repeatCount="indefinite" />
+  </g>
+
+  <!-- left arm -->
+  <g>
+    <polygon class="a" points="60.62 100 69.28 95 60.62 90 51.96 95 60.62 100"/>
+    <polygon class="b" points="51.96 105 51.96 95 60.62 100 60.62 110 51.96 105"/>
+    <polygon class="c" points="69.28 105 69.28 95 60.62 100 60.62 110 69.28 105"/>
+
+    <polygon class="a" points="43.3 110 51.96 105 43.3 100 34.64 105 43.3 110"/>
+    <polygon class="b" points="34.64 115 34.64 105 43.3 110 43.3 120 34.64 115"/>
+    <polygon class="c" points="51.96 115 51.96 105 43.3 110 43.3 120 51.96 115"/>
+
+    <polygon class="a" points="25.98 120 34.64 115 25.98 110 17.32 115 25.98 120"/>
+    <polygon class="b" points="17.32 125 17.32 115 25.98 120 25.98 130 17.32 125"/>
+    <polygon class="c" points="34.64 125 34.64 115 25.98 120 25.98 130 34.64 125"/>
+
+    <polygon class="a" points="8.66 130 17.32 125 8.66 120 0 125 8.66 130"/>
+    <polygon class="b" points="0 135 0 125 8.66 130 8.66 140 0 135"/>
+    <polygon class="c" points="17.32 135 17.32 125 8.66 130 8.66 140 17.32 135"/>
+
+    <animate attributeName="opacity" values="0.1;0.1;1;1;1;1;0.1" keyTimes="0;.1;.33;.43;.66;.76;1" dur="20s" repeatCount="indefinite" />
+  </g>
+
+  <!-- top arm -->
+  <g>
+    <polygon class="a" points="77.94 70 86.6 65 77.94 60 69.28 65 77.94 70"/>
+    <polygon class="b" points="69.28 75 69.28 65 77.94 70 77.94 80 69.28 75"/>
+    <polygon class="c" points="86.6 75 86.6 65 77.94 70 77.94 80 86.6 75"/>
+
+    <polygon class="a" points="77.94 50 86.6 45 77.94 40 69.28 45 77.94 50"/>
+    <polygon class="b" points="69.28 55 69.28 45 77.94 50 77.94 60 69.28 55"/>
+    <polygon class="c" points="86.6 55 86.6 45 77.94 50 77.94 60 86.6 55"/>
+
+    <polygon class="a" points="77.94 30 86.6 25 77.94 20 69.28 25 77.94 30"/>
+    <polygon class="b" points="69.28 35 69.28 25 77.94 30 77.94 40 69.28 35"/>
+    <polygon class="c" points="86.6 35 86.6 25 77.94 30 77.94 40 86.6 35"/>
+
+    <polygon class="a" points="77.94 10 86.6 5 77.94 0 69.28 5 77.94 10"/>
+    <polygon class="b" points="69.28 15 69.28 5 77.94 10 77.94 20 69.28 15"/>
+    <polygon class="c" points="86.6 15 86.6 5 77.94 10 77.94 20 86.6 15"/>
+
+    <animate attributeName="opacity" values="1;1;0.1;0.1;1;1;1" keyTimes="0;.1;.33;.43;.66;.76;1" dur="20s" repeatCount="indefinite" />
+  </g>
+
+
+
+  <!-- bottom part -->
+  <g>
+    <polygon class="a" points="77.94 110 86.6 105 77.94 100 69.28 105 77.94 110"/>
+    <polygon class="b" points="69.28 115 69.28 105 77.94 110 77.94 120 69.28 115"/>
+    <polygon class="c" points="86.6 115 86.6 105 77.94 110 77.94 120 86.6 115"/>
+
+    <polygon class="a" points="95.26 120 103.92 115 95.26 110 86.6 115 95.26 120"/>
+    <polygon class="b" points="86.6 125 86.6 115 95.26 120 95.26 130 86.6 125"/>
+    <polygon class="c" points="103.92 125 103.92 115 95.26 120 95.26 130 103.92 125"/>
+
+    <polygon class="a" points="60.62 120 69.28 115 60.62 110 51.96 115 60.62 120"/>
+    <polygon class="b" points="51.96 125 51.96 115 60.62 120 60.62 130 51.96 125"/>
+    <polygon class="c" points="69.28 125 69.28 115 60.62 120 60.62 130 69.28 125"/>
+
+    <animate attributeName="opacity" values="0.1;0.1;1;1;0.1;0.1;0.1" keyTimes="0;.1;.33;.43;.66;.76;1" dur="20s" repeatCount="indefinite" />
+  </g>
+
+  <!-- right part -->
+  <g>
+    <polygon class="a" points="95.26 80 103.92 75 95.26 70 86.6 75 95.26 80"/>
+    <polygon class="b" points="86.6 85 86.6 75 95.26 80 95.26 90 86.6 85"/>
+    <polygon class="c" points="103.92 85 103.92 75 95.26 80 95.26 90 103.92 85"/>
+
+    <polygon class="a" points="112.58 90 121.24 85 112.58 80 103.92 85 112.58 90"/>
+    <polygon class="b" points="103.92 95 103.92 85 112.58 90 112.58 100 103.92 95"/>
+    <polygon class="c" points="121.24 95 121.24 85 112.58 90 112.58 100 121.24 95"/>
+
+    <polygon class="a" points="95.26 60 103.92 55 95.26 50 86.6 55 95.26 60"/>
+    <polygon class="b" points="86.6 65 86.6 55 95.26 60 95.26 70 86.6 65"/>
+    <polygon class="c" points="103.92 65 103.92 55 95.26 60 95.26 70 103.92 65"/>
+
+    <animate attributeName="opacity" values="1;1;0.1;0.1;0.1;0.1;1" keyTimes="0;.1;.33;.43;.66;.76;1" dur="20s" repeatCount="indefinite" />
+  </g>
+
+  <!-- left part -->
+  <g>
+    <polygon class="a" points="60.62 80 69.28 75 60.62 70 51.96 75 60.62 80"/>
+    <polygon class="b" points="51.96 85 51.96 75 60.62 80 60.62 90 51.96 85"/>
+    <polygon class="c" points="69.28 85 69.28 75 60.62 80 60.62 90 69.28 85"/>
+
+    <polygon class="a" points="43.3 90 51.96 85 43.3 80 34.64 85 43.3 90"/>
+    <polygon class="b" points="34.64 95 34.64 85 43.3 90 43.3 100 34.64 95"/>
+    <polygon class="c" points="51.96 95 51.96 85 43.3 90 43.3 100 51.96 95"/>
+
+    <polygon class="a" points="60.62 60 69.28 55 60.62 50 51.96 55 60.62 60"/>
+    <polygon class="b" points="51.96 65 51.96 55 60.62 60 60.62 70 51.96 65"/>
+    <polygon class="c" points="69.28 65 69.28 55 60.62 60 60.62 70 69.28 65"/>
+
+    <animate attributeName="opacity" values="0.1;0.1;0.1;0.1;1;1;0.1" keyTimes="0;.1;.33;.43;.66;.76;1" dur="20s" repeatCount="indefinite" />
+  </g>
+</svg>
