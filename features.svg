@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240.71 268.26">
+  <defs>
+    <style>.a{fill:#f2ee64;stroke:#f2ee64;stroke-width:1;}.b{fill:#fffb69;stroke:#fffb69;stroke-width:1;}.c{fill:#eae463;stroke:#eae463;stroke-width:1;}.d{fill:#e5db63;stroke:#e5db63;stroke-width:1;}.e{fill:#e5df61;stroke:#e5df61;stroke-width:1;}.f{fill:#f2eb66;stroke:#f2eb66;stroke-width:1;}.g{fill:#f2e56b;stroke:#f2e56b;stroke-width:1;}.h{transform-origin: 30% 80%;}.i{transform-origin: 70% 80%;}.j{transform-origin: 20% 30%}</style>
+  </defs>
+  <g class="h">
+    <polygon class="b" points="112.51 225.41 101.01 231.72 79.16 215.45 90.42 208.95 112.51 225.41"/>
+    <polygon class="c" points="90.42 208.95 79.16 215.45 69.28 186.63 80.54 180.13 90.42 208.95"/>
+    <polygon class="b" points="64.52 195.02 59.4 204.04 37.31 194.99 48.57 188.49 64.52 195.02"/>
+    <polygon class="d" points="100.3 261.76 89.04 268.26 85.27 240.68 96.57 234.48 100.3 261.76"/>
+    <polygon class="a" points="85.27 240.68 89.04 268.26 69.28 244.86 49.52 245.44 53.3 222.22 37.31 194.99 59.4 204.04 69.28 186.63 79.16 215.45 101.01 231.72 101.26 231.91 85.27 240.68"/>
+    <animateTransform attributeName="transform" type="scale" values="0.9;0.9;1;1;0.9;0.9" keyTimes="0;0.3;0.4;0.6;0.7;1" dur="20s" repeatCount="indefinite" />
+  </g>
+
+  <g class="i">
+    <path class="e" d="M168.77 207.17L163.12 248.54L192.76 213.44L222.4 214.31L216.73 179.48L240.71 138.63L207.58 152.21L192.76 126.09L177.94 169.32L145.16 193.73L144.79 194.01Z"/>
+    <path class="b" d="M127.91 184.26L145.16 193.73L177.94 169.32L161.05 159.57Z"/>
+    <path class="f" d="M161.05 159.57L177.94 169.32 192.76 126.09L175.87 116.34Z"/>
+    <path class="b" d="M199.9 138.68L207.58 152.21L240.71 138.63L223.82 128.88Z"/>
+    <path class="g" d="M146.23 238.79L163.12 248.54L168.77 207.17L151.82 197.87Z"/>
+    <animateTransform attributeName="transform" type="scale" values="0.9;0.9;1;1;0.9" keyTimes="0;0.7;0.8;0.9;1" dur="20s" repeatCount="indefinite" />
+  </g>
+
+  <g class="j">
+    <polygon class="a" points="95.92 121.1 103.46 176.26 63.94 129.46 24.42 130.62 31.98 84.18 0 29.72 44.18 47.82 63.94 13 83.7 70.64 127.4 103.18 127.9 103.56 95.92 121.1"/>
+    <polygon class="b" points="150.4 90.56 127.4 103.18 83.7 70.64 106.22 57.64 150.4 90.56"/>
+    <polygon class="c" points="106.22 57.64 83.7 70.64 63.94 13 86.46 0 106.22 57.64"/>
+    <polygon class="b" points="54.42 29.78 44.18 47.82 0 29.72 22.52 16.72 54.42 29.78"/>
+    <polygon class="d" points="125.98 163.26 103.46 176.26 95.92 121.1 118.52 108.7 125.98 163.26"/>
+    <animateTransform attributeName="transform" type="scale" values="1;1;0.9;0.9;1" keyTimes="0;0.4;0.5;0.9;1" dur="20s" repeatCount="indefinite" />
+  </g>
+</svg>
